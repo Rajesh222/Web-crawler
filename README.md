@@ -1,7 +1,7 @@
 # Web-crawler
 
-##command for web crawler CLI
+command for web crawler CLI
 npm install
 
-##run
+run
 node index.js https://www.google.com/ 2
